@@ -1,3 +1,3 @@
 # My Tech Blog
-This is a personal blog project to share my thoughts and learnings about technology.
+This is just a basic template of a blog website.
 
